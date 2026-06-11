@@ -843,8 +843,9 @@ input[type='radio'] + label:before {
   width: 100%;
 }
 
-img.profile-pic {
+.profile-pic {
   border-radius: 100%;
+  border: solid 1px #ffffff;
 }
 
 #profile:before {
