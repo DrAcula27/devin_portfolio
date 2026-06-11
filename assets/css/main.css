@@ -843,14 +843,13 @@ input[type='radio'] + label:before {
   width: 100%;
 }
 
-.profile-pic {
+#profile .profile-pic {
   border-radius: 100%;
   border: solid 1px #ffffff;
 }
 
 #profile:before {
-  background-image: none;
-  background-color: transparent;
+  border-radius: 100%;
 }
 
 @media screen and (max-width: 736px) {
